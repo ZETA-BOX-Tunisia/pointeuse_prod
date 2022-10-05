@@ -3,12 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b6294c8e51c641fb11d1915953e573ef",
+  "assets/AssetManifest.json": "17fc299cb9b8fa9f894a850dfc3452f7",
+"assets/assets/fonts/open_sans/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
+"assets/assets/fonts/open_sans/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
 "assets/assets/images/logo.png": "b272391b74810a9c9ab39a89b26a5fe5",
 "assets/assets/svg/img_home.svg": "e019e3590f1171f7d84ccd4f035d63b4",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/FontManifest.json": "d6be7a589c295aa6f4f061f50f8ce0eb",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "8835cc2783bbd78727b35202061b378e",
+"assets/NOTICES": "c44eeb271c607d94d3881a418a2946fd",
 "assets/packages/auth_buttons/images/default/apple.svg": "55dba81be7ba24dd88dbf9cc81de95e8",
 "assets/packages/auth_buttons/images/default/email.svg": "3082146f3f124a005b10db6fe3109fe7",
 "assets/packages/auth_buttons/images/default/facebook.svg": "042d64dc3864e72dee8ed5a25b514b11",
@@ -47,9 +49,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4315ea8f4e6679999069e38983898895",
-"/": "4315ea8f4e6679999069e38983898895",
-"main.dart.js": "6ed2efaf3613d312335b3b32172e1a32",
+"index.html": "cb67228139b226b18678c76a5e393293",
+"/": "cb67228139b226b18678c76a5e393293",
+"main.dart.js": "a1aa01c26ef30732726894b7a61375fd",
 "manifest.json": "5aedfeba0129f9aab9db32ea6ee7d3a5",
 "version.json": "ff5c6728fb72d5c1f385b9108d74a848"
 };
